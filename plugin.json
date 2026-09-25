@@ -1,0 +1,8 @@
+{
+  "name": "melon",
+  "version": "1.2.0",
+  "description": "Adversarial first-principles review protocol for code, architectures, PRs, and LLM prompts: question requirements, delete, simplify, accelerate, then automate.",
+  "skills": [
+    "skills/melon"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "melon-marketplace",
+  "owner": {
+    "name": "Javi Díaz"
+  },
+  "metadata": {
+    "description": "Marketplace serving the melon plugin (adversarial first-principles review)."
+  },
+  "plugins": [
+    {
+      "name": "melon",
+      "source": "./",
+      "description": "Adversarial first-principles review protocol for code, architectures, PRs, and LLM prompts."
+    }
+  ]
+}
